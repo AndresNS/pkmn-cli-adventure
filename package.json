@@ -1,0 +1,26 @@
+{
+  "name": "pkmn-cli-adventure",
+  "version": "1.0.0",
+  "description": "AI-powered text-based Pokémon RPG adventure with dynamic storyline generation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "openai",
+    "pokemon",
+    "rpg",
+    "ai",
+    "adventure",
+    "cli"
+  ],
+  "author": "Andrés Navarro S.",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "figlet": "^1.6.0",
+    "inquirer": "^9.2.10",
+    "openai": "^4.3.1"
+  }
+}
